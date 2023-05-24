@@ -1,16 +1,34 @@
-### Hi there 👋
+## Парсер для страницы раздела классической литературы
 
-<!--
-**verailina2/verailina2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### О проекте
+***
 
-Here are some ideas to get you started:
+Мы составили парсер, который собирает названия книг и цену с первой страницы раздела классической литературы на сайте http://books.toscrape.com/catalogue/category/books/classics_6/index.html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Для решения поставленной задачи мы использовали пакет bs4 (BeautifulSoup) для парсинга HTML-страницы.
+
+### Установка пакета
+***
+Для установки пакета выполнили команды:
+```
+pip install beautifulsoup4
+```
+
+```
+pip install lxml
+```
+
+### Разработчики
+***
+* [lizobakted](https://github.com/lizobakted)
+* [verailina2](https://github.com/verailina2)
+* [yujlia](https://github.com/yujlia)
+* [lamilans](https://github.com/lamilans)
+
+
+
+
+
+
+
+
